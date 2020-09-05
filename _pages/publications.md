@@ -8,12 +8,18 @@ author_profile: true
 1.
 
 ## Published
-1. <ins>Dong, H.</ins>, **Chen, N.**, and Wang, K. (2019+) [Modeling and Change Detection for Count-weighted
-Multi-layer Networks](https://doi.org/10.1080/00401706.2019.1625812), *Technometrics*, accepted.
+1. <ins>Dong, H.</ins>, **Chen, N.**, and Wang, K. (2020) [Modeling and Change Detection for Count-weighted
+Multi-layer Networks](https://doi.org/10.1080/00401706.2019.1625812),
+*Technometrics*, 62(2), 184-195.
 
-1. Peng, W., Ye, Z., and **Chen, N.** (2019+)
+1. <ins>Wang, R.</ins>, **Chen, N.** (2019) [Wafer Map Defect
+    Pattern Recognition Using Rotation-Invariant Features](https://doi.org/10.1109/TSM.2019.2944181),
+  *IEEE Transactions on Semiconductor Manufacturing*, 32(4), 596-604.
+
+
+1. Peng, W., Ye, Z., and **Chen, N.** (2019)
 [Bayesian Deep  Learning based Health Prognostics Towards Prognostics Uncertainty](https://doi.org/10.1109/TIE.2019.2907440),
-*IEEE Transactions on Industrial Electronics*, accepted.
+*IEEE Transactions on Industrial Electronics*, 67(3), 2283-2293.
 
 1. <ins>Ren, H.</ins>, **Chen, N.**, and Wang, Z. (2019+)
     [Phase-II Monitoring in  Multichannel Profile Observations](https://doi.org/10.1080/00224065.2018.1507556),

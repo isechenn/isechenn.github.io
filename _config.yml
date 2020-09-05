@@ -11,9 +11,9 @@ title                    : "Dr Chen Nan"
 title_separator          : "-"
 name                     : &name "CHEN Nan"
 description              : &description "Chen Nan's Webpage"
-url                      : https://polarisyy.github.io # the base hostname & protocol for your site
+url                      : https://isechenn.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "polarisyy.github.io"
+repository               : "isechenn.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "polarisyy"
+  github           : "isechenn"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
