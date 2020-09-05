@@ -4,19 +4,19 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: isechenn.github.io/talks/
+    url: /talks/
 
   - title: "Teaching"
-    url: isechenn.github.io/teaching/
+    url: /teaching/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
 
   - title: "Blog Posts"
-    url: isechenn.github.io/year-archive/
+    url: /year-archive/
 
   - title: "CV"
-    url: isechenn.github.io/CV/
+    url: /CV/
 
 #   - title: "Guide"
 #    url: /markdown/
