@@ -5,9 +5,47 @@ permalink: /publications/
 author_profile: true
 ---
 ## Working Paper
-1.
+1.  <ins>Shi, Y.</ins>, and **Chen, N.** (2020+)
+  Conditional Kernel Density Estimation Considering Autocorrelation for Renewable
+Energy Probabilistic Modeling}, *IEEE Transactions on Power Systems*, revision submitted.
+
 
 ## Published
+
+
+
+
+1. Ren, H., Zou, C., **Chen, N.**, and Li, R. (2020+)
+  Large-Scale Datastreams Surveillance via Pattern-Oriented-Sampling,
+  *Journal of the American  Statistical Association*,
+  accepted. 
+
+
+1. <ins>Zhu, J.</ins>, **Chen,N.**, and Shen, C (2020+) [A New
+  Multiple Source Domain Adaptation Fault Diagnosis Method between
+  Different Rotating Machines], *IEEE Transactions on Industrial
+    Informatics*, accepted.
+
+1. <ins>Yang, X.</ins>, **Chen, N.**, and Zhai, C. (2020+)
+  [A Control Chart Approach to Power System Line Outage
+    Detection Under Transient Dynamics](https://doi.org/10.1109/TPWRS.2020.3006465), *IEEE Transactions on
+    Power Systems*, accepted.
+
+1. <ins>Zhu, J.</ins>, **Chen, N.**, and Shen, C. (2020) [A
+  New Data-driven Transferable Remaining Useful Life Prediction
+  Approach for Bearing under Different Working
+  Conditions](https://doi.org/10.1016/j.ymssp.2019.106602),
+  *Mechanical Systems and Signal Processing*, 139, 106602.
+
+
+1. <ins>Wang, R.</ins>, and **Chen, N.** (2020) [Defect
+  Pattern Recognition on Wafers Using Convolutional Neural Networks](http://dx.doi.org/10.1002/qre.2627)
+  *Quality and Reliability Engineering International*, 36(4),   1245-1257. 
+
+1. <ins>Zhang, C.</ins>, Wu, J., and **Chen, N.** (2020) [Spatial Rank-based High-dimensional Monitoring Through
+  Random Projection](https://doi.org/10.1080/00224065.2019.1571336), *Journal of Quality Technology*, 52(2), 111-127.
+
+
 1. <ins>Dong, H.</ins>, **Chen, N.**, and Wang, K. (2020) [Modeling and Change Detection for Count-weighted
 Multi-layer Networks](https://doi.org/10.1080/00401706.2019.1625812),
 *Technometrics*, 62(2), 184-195.
