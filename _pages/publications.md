@@ -21,9 +21,9 @@ Energy Probabilistic Modeling}, *IEEE Transactions on Power Systems*, revision s
   accepted. 
 
 
-1. <ins>Zhu, J.</ins>, **Chen,N.**, and Shen, C (2020+) [A New
+1. <ins>Zhu, J.</ins>, **Chen,N.**, and Shen, C (2020+) A New
   Multiple Source Domain Adaptation Fault Diagnosis Method between
-  Different Rotating Machines], *IEEE Transactions on Industrial
+  Different Rotating Machines, *IEEE Transactions on Industrial
     Informatics*, accepted.
 
 1. <ins>Yang, X.</ins>, **Chen, N.**, and Zhai, C. (2020+)
@@ -59,12 +59,9 @@ Multi-layer Networks](https://doi.org/10.1080/00401706.2019.1625812),
 [Bayesian Deep  Learning based Health Prognostics Towards Prognostics Uncertainty](https://doi.org/10.1109/TIE.2019.2907440),
 *IEEE Transactions on Industrial Electronics*, 67(3), 2283-2293.
 
-1. <ins>Ren, H.</ins>, **Chen, N.**, and Wang, Z. (2019+)
+1. <ins>Ren, H.</ins>, **Chen, N.**, and Wang, Z. (2019)
     [Phase-II Monitoring in  Multichannel Profile Observations](https://doi.org/10.1080/00224065.2018.1507556),
-    *Journal of Quality  Technology*, accepted.
-
-1. <ins>Zhang, C.</ins>, Wu, J., and **Chen, N.** (2019+) [Spatial Rank-based High-dimensional Monitoring Through
-  Random Projection](https://doi.org/10.1080/00224065.2019.1571336), *Journal of Quality Technology*, accepted.
+    *Journal of Quality  Technology*, 51(4), 338-352.
 
 1.  <ins>Wang, R.</ins>, Zhang, L., and **Chen, N.**. (2019) [Spatial Correlated Data Monitoring in Semiconductor Manufacturing
   Using Gaussian Process Model](https://doi.org/10.1109/TSM.2018.2883763), *IEEE Transactions on

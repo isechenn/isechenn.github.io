@@ -16,13 +16,12 @@ redirect_from:
 * Ph.D in Industrial Engineering, University of Wisconsin Madison, 2010
 
 ## Working Experience
-* National University of Singapore
-  * Department of Industrial Systems Engineering and Management
+* National University of Singapore,  Department of Industrial Systems Engineering and Management
+  * Jan 2020 - now: Deputy Head (Graduate Programs)
   * Jul 2017 - now: Associate Professor
   * Aug 2010 - Jun 2017: Assistant Professor
 
-* University of Wisconsin Madison
-  * Department of Industrial and Systems Engineering
+* University of Wisconsin Madison, Department of Industrial and Systems Engineering
   * Aug 2006 -  Aug 2010: Research Assistant
   * Supervisor: Professor Shiyu Zhou
 
@@ -65,6 +64,35 @@ redirect_from:
   * Thesis Title: Statistical Monitoring for Engineering Systems with Complex Data
   * First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
 
+* Wang Rui, PhD, 2015-2019
+  * Thesis Title: Data Analytics for Quality Control in Semiconductor Manufacturing Processes
+<!--  * First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University-->
+
+* Liang Hongde, PhD, 2015-2019
+  * Thesis Title: Condition monitoring and health  management for  Li-Ion batteries
+<!--
+  * First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
+-->
+
+* Zhu Jun, PhD, 2016-2020
+  * Thesis Title: Statistical Monitoring for Engineering Systems with Complex Data
+<!--
+* First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
+-->
+* [Shi Yuchen](https://sg.linkedin.com/in/yuchen-shi-2830ba158), PhD, 2016-2020
+  * Thesis Title: Statistical Monitoring for Engineering Systems with Complex Data
+<!--
+* First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
+-->
+* [Yang Xiaozhou](https://yangxiaozhou.github.io/about/), PhD, 2017-2021
+<!--
+* Thesis Title: Statistical Monitoring for Engineering Systems with Complex Data
+  * First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
+-->
+
+* Xie Jiaohong, PhD, 2018-2022
+
+* Wu Tong, PhD, 2020-2024
 
 <!--
 Publications
