@@ -70,25 +70,17 @@ redirect_from:
 
 * Liang Hongde, PhD, 2015-2019
   * Thesis Title: Condition monitoring and health  management for  Li-Ion batteries
-<!--
-  * First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
--->
+<!--  * First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University-->
 
 * Zhu Jun, PhD, 2016-2020
   * Thesis Title: Statistical Monitoring for Engineering Systems with Complex Data
-<!--
-* First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
--->
+<!--* First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University-->
+
 * [Shi Yuchen](https://sg.linkedin.com/in/yuchen-shi-2830ba158), PhD, 2016-2020
   * Thesis Title: Statistical Monitoring for Engineering Systems with Complex Data
-<!--
-* First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
--->
+<!--* First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University-->
 * [Yang Xiaozhou](https://yangxiaozhou.github.io/about/), PhD, 2017-2021
-<!--
-* Thesis Title: Statistical Monitoring for Engineering Systems with Complex Data
-  * First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University
--->
+<!--* Thesis Title: Statistical Monitoring for Engineering Systems with Complex Data  * First Job: Assistant Professor, Department of Industrial Engineering, Tsinghua University-->
 
 * Xie Jiaohong, PhD, 2018-2022
 
