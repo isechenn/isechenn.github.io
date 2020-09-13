@@ -4,6 +4,8 @@ title: "Journal Publications"
 permalink: /publications/
 author_profile: true
 ---
+{% include base_path %}
+
 ## Working Paper
 1.  <ins>Shi, Y.</ins>, and **Chen, N.** (2020+)
   Conditional Kernel Density Estimation Considering Autocorrelation for Renewable
@@ -16,7 +18,7 @@ Energy Probabilistic Modeling}, *IEEE Transactions on Power Systems*, revision s
 
 
 1. Ren, H., Zou, C., **Chen, N.**, and Li, R. (2020+)
-  Large-Scale Datastreams Surveillance via Pattern-Oriented-Sampling,
+  [Large-Scale Datastreams Surveillance via Pattern-Oriented-Sampling](https://doi.org/10.1080/01621459.2020.1819295),
   *Journal of the American  Statistical Association*,
   accepted. 
 
